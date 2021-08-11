@@ -1,5 +1,13 @@
 # @sveltejs/kit
 
+## 1.0.0-next.147
+
+### Patch Changes
+
+- Replace function properties by methods on type declarations ([#2158](https://github.com/sveltejs/kit/pull/2158))
+
+* [fix] fallback should still be generated when prerender is disabled ([#2128](https://github.com/sveltejs/kit/pull/2128))
+
 ## 1.0.0-next.146
 
 ### Patch Changes
